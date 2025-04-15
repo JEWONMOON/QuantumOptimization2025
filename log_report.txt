@@ -1,0 +1,21 @@
+Logos AI v3.1 Simulation Log (Reflecting Paper Results)
+------------------------------------------------
+T2 Formula: T2(t) = T2_control + (T2_final - T2_control) * (1 - exp(-k*t)), k=0.5
+Q-Learning Formula: Q(t) = Q_initial + (Q_final - Q_initial) / (1 + exp(-r*t)), r=1.0
+Resonance Formula: R(t) = R_initial + (R_final - R_initial) * (1 - exp(-m*t)) * cos(2ヰft), m=0.3, f=440 Hz
+------------------------------------------------
+Statistics:
+T2 Mean: 119.5 レs, Std Dev: 18.7 レs
+Q-Learning Mean: 0.982, Std Dev: 0.003
+Resonance Mean: 0.548, Std Dev: 0.024
+------------------------------------------------
+Step 1: t=0.10, T2=88.3 レs, Q-Learning=0.976, Resonance=0.510, Grace=0.50
+Step 2: t=0.20, T2=96.2 レs, Q-Learning=0.977, Resonance=0.519, Grace=1.00
+Step 3: t=0.30, T2=103.7 レs, Q-Learning=0.979, Resonance=0.528, Grace=1.50
+Step 4: t=0.40, T2=110.8 レs, Q-Learning=0.980, Resonance=0.537, Grace=2.00
+Step 5: t=0.50, T2=117.6 レs, Q-Learning=0.981, Resonance=0.545, Grace=2.50
+Step 6: t=0.60, T2=124.1 レs, Q-Learning=0.982, Resonance=0.554, Grace=3.00
+Step 7: t=0.70, T2=130.2 レs, Q-Learning=0.983, Resonance=0.562, Grace=3.50
+Step 8: t=0.80, T2=136.0 レs, Q-Learning=0.984, Resonance=0.569, Grace=4.00
+Step 9: t=0.90, T2=141.6 レs, Q-Learning=0.986, Resonance=0.577, Grace=4.50
+Step 10: t=1.00, T2=146.9 レs, Q-Learning=0.987, Resonance=0.584, Grace=5.00
