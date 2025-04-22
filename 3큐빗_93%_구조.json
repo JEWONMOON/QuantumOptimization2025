@@ -1,0 +1,45 @@
+{
+  "id": "d03w37w6rr3g008sahtg",
+  "hub": "ibm-q",
+  "group": "open",
+  "project": "main",
+  "backend": "ibm_sherbrooke",
+  "state": {
+    "status": "Completed"
+  },
+  "status": "Completed",
+  "params": {
+    "pubs": [
+      [
+        {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJy92HVwVFcYhvG7CZDg7u7uDsE1OAT3ZQkQCJIlwaEzdaHu7u5UoEpbWlrq1L3U3d2G5t19NuSlwx8sM70z4Zcn5OaG5ZzvZDIxM2t05uTyKUHiCq3KC8ouCtIL3z2q8C2VD6fwpquq/ojkRCMFOfntO3fvmbEv/vGNm/NCsdtCobzAr1CxLxMU+7IlsCSWwjRMx9JYBstiOSyPFbAiVsLKWKX4P6HwqobVsQbWxFpYG+tgXayH9bEBNsRG2BibYFNshs2xBbbEVtga22BbbIftsQN2xE7YGbtgV+yG3bEH9sRe2Bv7YF/MwH7YHwfgQByEg3EIDsVhOBxH4EjMxFE4GsfgWByH43ECTsRJmIWTcQpOxWk4HWfgTJyFs3EOzsV5OB/DuAAjuBCzcREuxiWYg0txGebiclyBK3EVJvZjFFdjPhbgGlyL63A9bsCNuAk345aIdnpqUCK0PDuceEjiOngIxLd7qNjfHHxNmjkinJ8d++YTr0z6hO2ptffs3bWzaFYc6uas6UU3J/WgYMf/9KCtGeFtdXbv33kYN4eO5OUIJfWgJF6O5B6UxMuRciQvR0pSD0ri5UjuQUUvR+JMTD3EzYPD0WhOdjS2tmKvaPyZidsO9dyxhRu1IBpfkvGxdBh3hCKxzzmMO1Iise8qiP+kUPi2v/CKfyhIzYtPjwM/P/zn54TYZ2wK0kLhFZGc3NzEXD0aj8Fj8Tg8Hk/AE/EkPBlPwa14Kp6Gp+MZeCaehWfjOXgunofn4wV4IV6EF+MleClehpfjFXglXoVX4zV4LV6H1+MNeCPehDfjLXgr3oa34x14J27Du/BuvAfvxe24A+/D+/EBfBAfwodxJz6Cj+JjuAsfxydwNz6JT+EefBqfwWfxOXweX8AXcS++hC/jK/gqvoav4xv4Jr6Fb+M7+C6+h+/jPvwAP8SP8GP8BD/Fz/Bz/AK/xK/wa/wGv8Xv8Hv8AX/En/Bn/AV/xd/wd/wD/8S/8G/8B0Px46RoqPGOrrQDkyDkmeKZ6lnCs6RnKc80z3TP0p5lPMt6lvMs71nBs6JnJc/KnlU8q3pW86zuWcOzpmctz9qedTzretbzrO/ZwLOhZyPPxp5NPJt6NvNs7tnCs6VnK8/Wnm0823q282zv2cGzo2cnz86eXTy7enbz7O7Zw7OnZy/P3p59PPt6Znj28+zvOcBzoOcgz8GeQzyHeg7zHO45wnOkZ6bnKM/RnmM8x3qO8xzvOcFzouckzyzPyZ5TPKd6TvOc7jnDc6bnLM/ZnnM853rO85zvGfZc4BnxXOiZ7bnIc7HnEs8cz6WeyzxzPZd7rvBc6bnKM88z6rnaM9+zwHON51rPdZ7rPTd4bvTUpYMz9gN4ED8XdRjGTsAgftbpgNOppqNM55cOLZ1UOp50Jukg0umjI0fnjA4XnSg6RnR26MDQKaGjQeeBDgFNfo37RkF8sGuaa4RrbmtYa0JrLGsWawBr6mrUar5qqGqSanxqZmpQajpqJGoOavhp4mnMabZpoGmKaXRpXmlIaTJpHA0M4oNH00YjRnNFw0QTRGNDs0IDQlNBo0D7X5teO13bW3taG1m7V1tW+1SbUztS21B7TxtOu0xbS/tJm0g7R9tlfhDfGNoN2gJa91rsWuFa1lrLWsBatVqqWp9alFqJWn5ac1poWl1aUlpHWjxaMVomWhtaEFoF+q/Xr2z065ot/wKV1JRH"
+        },
+        {
+          "__type__": "ndarray",
+          "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RoGOpo6CrUKFAAuAFOzG1s="
+        },
+        8192
+      ]
+    ],
+    "options": {},
+    "version": 2,
+    "support_qiskit": true
+  },
+  "program": {
+    "id": "sampler"
+  },
+  "created": "2025-04-22T16:19:43.515Z",
+  "ended": "2025-04-22T16:19:51.424Z",
+  "runtime": "",
+  "cost": 600,
+  "tags": null,
+  "session_id": "d03w36mnhqag008vny40",
+  "estimated_running_time_seconds": 5.188583548294241,
+  "estimated_max_running_time_seconds": 15.565750644882723,
+  "usage": {
+    "seconds": 0
+  },
+  "private": false,
+  "user_id": "67ff950d1b17042b3615dead"
+}
