@@ -1,0 +1,75 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "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"
+                    },
+                    "num_bits": 3
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpanCollection",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2025-04-22T17:15:27.671807"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2025-04-22T17:15:31.022880"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        8192
+                      ],
+                      0,
+                      1,
+                      0,
+                      8192
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}
